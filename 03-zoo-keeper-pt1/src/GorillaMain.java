@@ -10,5 +10,15 @@ public class GorillaMain {
         gorilla.climb();
         gorilla.displayEnergyLevel();
 
+        Bat bat = new Bat(300);
+        bat.getFly();
+        bat.displayEnergyLevel();
+
+        bat.getEatHumans();
+        bat.displayEnergyLevel();
+
+        bat.getAttackTown();
+        bat.displayEnergyLevel();
+
     }
 }
