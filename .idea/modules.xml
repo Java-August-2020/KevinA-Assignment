@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-java-oop.04-zoo-keeper-pt2/02-java-oop.04-zoo-keeper-pt2.iml" filepath="$PROJECT_DIR$/02-java-oop.04-zoo-keeper-pt2/02-java-oop.04-zoo-keeper-pt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-zoo-keeper-pt1/03-zoo-keeper-pt1.iml" filepath="$PROJECT_DIR$/03-zoo-keeper-pt1/03-zoo-keeper-pt1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DLL/DLL.iml" filepath="$PROJECT_DIR$/DLL/DLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KevinA-Assignment.iml" filepath="$PROJECT_DIR$/.idea/KevinA-Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectMaster/ObjectMaster.iml" filepath="$PROJECT_DIR$/ObjectMaster/ObjectMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneAssignment/PhoneAssignment.iml" filepath="$PROJECT_DIR$/PhoneAssignment/PhoneAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pokemon/Pokemon.iml" filepath="$PROJECT_DIR$/Pokemon/Pokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account/bank-account.iml" filepath="$PROJECT_DIR$/bank-account/bank-account.iml" />
+    </modules>
+  </component>
+</project>

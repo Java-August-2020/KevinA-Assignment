@@ -14,7 +14,7 @@ public class Iphone extends Phone implements Ringable{
         return "iPhone " + "says "+ this.getVersionNumber() + " " + this.getRingTone() + "!";
     }
 
-    @Override
+    @Deprecated
     public String unlock() {
         return "Unlocking via facial recognition";
     }
