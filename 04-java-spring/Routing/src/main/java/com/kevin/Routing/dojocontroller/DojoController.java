@@ -13,18 +13,15 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping("/")
 public class DojoController {
 
-	@RequestMapping(value = "{dojo}", method = RequestMethod.GET)
-	public String dispayText(@PathVariable("dojo") String textName, Model model) {
-		model.addAttribute("textName", textName);
+	@RequestMapping("")
+	public String dispayText(Model model) {
+		model.addAttribute("name", "attributeValue");
+	
 		return "index.jsp";
 	}
 	
 
-	@RequestMapping(value = "dojo/{burbank}", method = RequestMethod.GET)
-	public String burbank(@PathVariable("burbank") String burbankName, Model model) {
-		model.addAttribute("placeName", burbankName);
-		return "index.jsp";
-	}
+	
 	
 	
 	

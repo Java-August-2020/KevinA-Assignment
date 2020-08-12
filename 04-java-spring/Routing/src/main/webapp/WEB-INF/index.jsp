@@ -14,14 +14,11 @@
 <h1>Welcome!</h1>
 
 
-	<h1><c:out value="${textName}"/></h1>
+	<h1><c:out value="${2+2*9}"/></h1>
+	<h1><c:out value="${name}"/></h1>
 	
 
 	
-		<h1><c:out value="${placeName}"/></h1>
 		
-      
-      
-      <h1><c:out value="${placeName1}"/></h1>
 </body>
 </html>
